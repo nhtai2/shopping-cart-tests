@@ -18,7 +18,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 import internal.GlobalVariable
 
-//comment
 public class BlockUIDismissed {
 	def static void WaitBlockUIDismissed(){
 		TestObject icoBlockUI = findTestObject('Pages/Checkout page/blockUI')
