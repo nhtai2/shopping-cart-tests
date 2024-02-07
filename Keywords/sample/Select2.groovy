@@ -14,6 +14,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import org.openqa.selenium.JavascriptExecutor
 import groovy.transform.CompileStatic
 
+// Comment
 public class Select2 {
 
 	/**
