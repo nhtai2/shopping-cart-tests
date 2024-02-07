@@ -11,6 +11,7 @@ import com.kms.katalon.core.webui.driver.DriverFactory
 import groovy.transform.CompileStatic
 import com.kms.katalon.core.annotation.Keyword
 
+//New change then commit
 public class Utils {
 
 	static int timeout = 60
