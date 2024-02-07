@@ -14,7 +14,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import org.openqa.selenium.JavascriptExecutor
 import groovy.transform.CompileStatic
 
-//TC-003
+//TC-0044444444
 public class Select2 {
 
 	/**
@@ -22,8 +22,7 @@ public class Select2 {
 	 *
 	 * @param to The select2 box object that tagged as "select" in the document.
 	 * @param option The label of the option needs to select.
-	 * Note: TC-003
-	 * TC-003
+	 * Note: TC-00444444444444
 	 */
 	@CompileStatic
 	@Keyword
